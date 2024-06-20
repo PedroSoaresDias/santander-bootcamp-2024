@@ -1,0 +1,1 @@
+web: java -jar target\santander-bootcamo-2024-0.0.1-SNAPSHOT.jar
